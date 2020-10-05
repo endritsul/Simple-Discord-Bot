@@ -1,8 +1,7 @@
 ####                          ####
 #### a simple discord bot that sends you messages back ####
 #### written in python        ####
-#### code by Squeezy aka endi ####
-####                          ####
+#### code by Endrit Sulejmani ####
 
 import discord
 
