@@ -11,7 +11,7 @@ print("program is running. . .")
 
 class MyClient(discord.Client):
     async def on_ready(self):
-        print("Ich bin eingeloggt beep beep bop")
+        print("I am logged in, beep beep bop")
     
 
     async def on_message(self, message):
